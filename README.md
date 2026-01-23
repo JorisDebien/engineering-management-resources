@@ -181,7 +181,10 @@ I got into software development through software testing, so it will always hold
 
 ### Frontend
 - [Principles of writing consistent, idiomatic JS](https://github.com/rwaldron/idiomatic.js/) (Rick Waldron)
-- [HTML Cheat sheet](files/htmlcheatsheet.pdf) (I don't remember where I got this from) 
+- [HTML Cheat sheet](files/htmlcheatsheet.pdf) (I don't remember where I got this from)
+
+### AI-Assisted Engineering
+- [Slash commands in Github Copilot](https://github.blog/ai-and-ml/github-copilot/a-cheat-sheet-to-slash-commands-in-github-copilot-cli/) [(Jacklyn Lee)](https://github.com/jacklynlee31)
 
 ---
 # Other Curated Collections
